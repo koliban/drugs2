@@ -38,5 +38,4 @@ class Dr1Spider(scrapy.Spider):
             print(i["dDosage"])
             print(i["dAdverse_reactions"])
             print(i["dTaboo"])
-            aa
             return i
